@@ -1,7 +1,11 @@
 import React from "react";
-
+import TopBar from "./components/TopBar";
 const App = () => {
-  return <div className="text-3xl font-bold underline">App</div>;
+  return (
+    <div>
+      <TopBar />
+    </div>
+  );
 };
 
 export default App;
