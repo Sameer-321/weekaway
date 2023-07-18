@@ -8,7 +8,7 @@ const Activities = () => {
           Resorts
         </h3>
         <img
-          src="https://images.unsplash.com/photo-1689350097217-d24685796c06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=300&q=60"
+          src="https://images.unsplash.com/photo-1495615080073-6b89c9839ce0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3F1YXJlfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60"
           alt=""
           className="w-full h-full object-cover relative border-4 border-white shadow-lg"
         />
